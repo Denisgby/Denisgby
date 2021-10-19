@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Denis
+- 👋 Hi, I’m Denis
 - 👀 I’m interested in gain new knowledge 
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate with interesting people
